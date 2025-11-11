@@ -1,0 +1,14 @@
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# macOS
+.DS_Store
+
+# Data - never commit large data
+/data/*.mbox
+
+
