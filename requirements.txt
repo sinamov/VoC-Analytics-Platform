@@ -1,0 +1,12 @@
+# For our agent
+langgraph
+langchain-openai
+
+# For our local models
+spacy
+transformers
+torch
+
+# For our web app
+streamlit
+pandas
