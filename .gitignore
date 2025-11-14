@@ -13,3 +13,5 @@ venv/
 models/sentiment_model/
 # Ignore the virtual environment
 venv/
+# Ignore the secret keys file
+.env

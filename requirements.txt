@@ -10,3 +10,6 @@ torch
 # For our web app
 streamlit
 pandas
+
+# For our secrets
+python-dotenv
