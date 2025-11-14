@@ -10,5 +10,5 @@ venv/
 
 # Data - never commit large data
 /data/*.mbox
-
+models/sentiment_model/
 
