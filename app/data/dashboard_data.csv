@@ -1,0 +1,223 @@
+message_id,aspect,sentiment
+<CAJ3fcbC20HR63w8R1MTtONhp4wKgFEVwdZyZHzgoCf_kkhuTBQ@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbC20HR63w8R1MTtONhp4wKgFEVwdZyZHzgoCf_kkhuTBQ@mail.gmail.com>,streaming query,neutral
+<CAJ3fcbC20HR63w8R1MTtONhp4wKgFEVwdZyZHzgoCf_kkhuTBQ@mail.gmail.com>,latency,neutral
+<CAEG50Ls6xOUGvA3msOMAcKo6ddDkO5ibRCf=dfGuQFONCwvL6w@mail.gmail.com>,structured streaming,neutral
+<CAEG50Ls6xOUGvA3msOMAcKo6ddDkO5ibRCf=dfGuQFONCwvL6w@mail.gmail.com>,micro-,neutral
+<CAEG50Ls6xOUGvA3msOMAcKo6ddDkO5ibRCf=dfGuQFONCwvL6w@mail.gmail.com>,streaming query,neutral
+<CAEG50Ls6xOUGvA3msOMAcKo6ddDkO5ibRCf=dfGuQFONCwvL6w@mail.gmail.com>,latency,neutral
+<CAJ3fcbBiUUw4OuKuyki8rxPr-y=Xfw+F89Z7E+H4XwXMUY5sCQ@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbBiUUw4OuKuyki8rxPr-y=Xfw+F89Z7E+H4XwXMUY5sCQ@mail.gmail.com>,"structured
+",positive
+<CALFm=fxvO7Sf1ursqwz5+NhURWgeBdZV+8sYhg3eFgXwMdE70w@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbBJAvCqW6biGtTKiWP+KA2rHS7eeseA+fnpenwdHXtttg@mail.gmail.com>,"structured
+",neutral
+<CAJ3fcbBJAvCqW6biGtTKiWP+KA2rHS7eeseA+fnpenwdHXtttg@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbBJAvCqW6biGtTKiWP+KA2rHS7eeseA+fnpenwdHXtttg@mail.gmail.com>,dataframe,neutral
+<CAJ3fcbBJAvCqW6biGtTKiWP+KA2rHS7eeseA+fnpenwdHXtttg@mail.gmail.com>,data streaming,positive
+<CAFX8L20=JWFhMbFhbd98_fnN+0FswronK5YtqwmpVqLzZc6Ztw@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbBMwMfpYAxcxaEZhkr+voXV-pvMoLXF4HN==b-A9_xZjA@mail.gmail.com>,"structured
+",positive
+<CAJ3fcbBMwMfpYAxcxaEZhkr+voXV-pvMoLXF4HN==b-A9_xZjA@mail.gmail.com>,spark streaming,neutral
+<CAJ3fcbBMwMfpYAxcxaEZhkr+voXV-pvMoLXF4HN==b-A9_xZjA@mail.gmail.com>,pyspark,neutral
+<CAJ3fcbBMwMfpYAxcxaEZhkr+voXV-pvMoLXF4HN==b-A9_xZjA@mail.gmail.com>,stream,neutral
+<CAJ3fcbBMwMfpYAxcxaEZhkr+voXV-pvMoLXF4HN==b-A9_xZjA@mail.gmail.com>,latency,neutral
+<CAN5DFmeOJvfUXd1RSAsx4akbrSrQYr0tuTjiXTr=HZcumVxJXQ@mail.gmail.com>,structured streaming,positive
+<CABvqBf=gVgT4x21KeEbHtFso06OvJR6jZ4gziQhrHk0RJp7wAg@mail.gmail.com>,structured streaming,positive
+"
+ <ME3PR01MB64504CFA4FF550AC1F7402C3B5722@ME3PR01MB6450.ausprd01.prod.outlook.com>",structured streaming,positive
+"
+ <ME3PR01MB64504CFA4FF550AC1F7402C3B5722@ME3PR01MB6450.ausprd01.prod.outlook.com>",dynamic allocation,negative
+<CAFg=UHNs3HtBpWw52aKE0oMoTJHNp30TgTG5adpnwFBOCG=UMA@mail.gmail.com>,memory.,neutral
+<CAJLcJd_Fn_OWQoCYw5WKK02LO5-0U_jgjJDjBYQ0fGfDQPvgzg@mail.gmail.com>,memory --,positive
+<2042369353.2870568.1705504667149@mail.yahoo.com>,dynamic allocation,neutral
+<2042369353.2870568.1705504667149@mail.yahoo.com>,memory.,neutral
+<CAJiQeYJhcF4-Z6Xo2D4_juvDwga97ii0eMCpqv8W+iN=DctyDw@mail.gmail.com>,scheduler,neutral
+"
+ <ME3PR01MB645094F81565865BBA48F075B5722@ME3PR01MB6450.ausprd01.prod.outlook.com>",structured streaming,neutral
+<CAMknSHSRoiEF8PcfEQyGB3i7kC6wUaO_g61=8E5WxgSVRXqA8A@mail.gmail.com>,memory consumption,positive
+<CAMknSHSRoiEF8PcfEQyGB3i7kC6wUaO_g61=8E5WxgSVRXqA8A@mail.gmail.com>,changing core,neutral
+<A2483615-9A59-4009-9D06-0CFDA0B077E4@gmail.com>,structured streaming,neutral
+<A2483615-9A59-4009-9D06-0CFDA0B077E4@gmail.com>,dstream,neutral
+<CAJ3fcbCEdLzgXQpAcJ7B1ZG9nDMeBMPsWu-KONoa2t9VnUrQ-Q@mail.gmail.com>,structured streaming,neutral
+<B10C7192-592B-42CB-BDBC-EFE2F6B32AB9@charter.com>,structured streaming,neutral
+<4A2FDFB9-6BF5-49E4-BC99-A331E2CBFD35@charter.com>,structured streaming,neutral
+<CANZ1GQduWQenuMO93EUSpD-KSx_J5-PEmVzTC529oea4NMqYEQ@mail.gmail.com>,micro-,neutral
+<CABtZgytxBgsFZPw4VqrTz8GLHz18YQxwm7HPvQG+j0oZLZ1kFQ@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbBQ_GNPHuTEFB732K8e+CR8nSd26nNQ+RKpaAof10TEOQ@mail.gmail.com>,structured streaming,negative
+<CABtZgyvo+ggoGfs2qYEMR7v0hKpLYckMYH11Bgb1iwZDa6os4Q@mail.gmail.com>,structured streaming,neutral
+<CABtZgyvo+ggoGfs2qYEMR7v0hKpLYckMYH11Bgb1iwZDa6os4Q@mail.gmail.com>,stateful streaming,neutral
+<CAJ3fcbAVpm9SYhKRa7OjyudQ9czyHwa7bFont39CAfiVOGT=Kw@mail.gmail.com>,query statistics,neutral
+<CABtZgys9H6GqYxy_1Mp_YmA9DYzWcZrpzSZ80P8A3oTXDBWaZA@mail.gmail.com>,streaming semantics,neutral
+<CABtZgys9H6GqYxy_1Mp_YmA9DYzWcZrpzSZ80P8A3oTXDBWaZA@mail.gmail.com>,micro-,neutral
+<CALKvMUWHgoZo2uHbj6YRnSfd6soBgZ-dVcm0riy09y0q_EYnDA@mail.gmail.com>,shuffle,negative
+<CALKvMUWHgoZo2uHbj6YRnSfd6soBgZ-dVcm0riy09y0q_EYnDA@mail.gmail.com>,data skew,negative
+<CAJ3fcbCCXGyQfEdmE_+bNRyfzjQtZBuGOziju1Cab=H5OBOPCg@mail.gmail.com>,shuffle,neutral
+<CAJ3fcbCCXGyQfEdmE_+bNRyfzjQtZBuGOziju1Cab=H5OBOPCg@mail.gmail.com>,caching,neutral
+<CADWNwo4UwJU0W9O3zD5Pi0ZAFrG9QX9tiWz2c48z9vkM7b9Ruw@mail.gmail.com>,micro-,positive
+<CAFwuiCxtwnXva3Nr5vqZTt_t-uOOAk7vChAUQ6Q8oziTimDjvA@mail.gmail.com>,pyspark,neutral
+<CAFwuiCxtwnXva3Nr5vqZTt_t-uOOAk7vChAUQ6Q8oziTimDjvA@mail.gmail.com>,-streaming,neutral
+<CAJ3fcbCOtj-NBpyA2Qu0_7iNQtsi9u4wP8g2DOmUwXEtoG_5HA@mail.gmail.com>,"structured
+",neutral
+<CAJ3fcbCJpb9=3r_pBdp=bKZ9ZtA29xDdG5Qu_63_=akr3CRibA@mail.gmail.com>,pyspark,neutral
+<CAJ3fcbCJpb9=3r_pBdp=bKZ9ZtA29xDdG5Qu_63_=akr3CRibA@mail.gmail.com>,dataframe,neutral
+<CABtZgyu+FFjh-CYgTYh-yh5XVUPS5vc4ubsyJeufdC4RjjyaBw@mail.gmail.com>,structured streaming,positive
+<CABfDjEAGQopQWZf65QD+T_ygMueBTKHY99hufA6OOTnGnUfnVA@mail.gmail.com>,dataframe,neutral
+<CAJ3fcbAgOks0GrXZHo1GueTD4ZzBUfdoN3hVztymqK=UQRJXsA@mail.gmail.com>,dataframe,neutral
+<CAJ3fcbAgOks0GrXZHo1GueTD4ZzBUfdoN3hVztymqK=UQRJXsA@mail.gmail.com>,shuffle,neutral
+<CAFX8L22E6DJioWXMomKHU2u6w1z4BpOh_6P9sGTJur9_-465-w@mail.gmail.com>,pyspark,negative
+<CAFX8L22E6DJioWXMomKHU2u6w1z4BpOh_6P9sGTJur9_-465-w@mail.gmail.com>,spark connect,negative
+<CAF6oT1cr8PdHTZGRkeuf88psv6GNF54dvpSieeAJQ5KUzxO37Q@mail.gmail.com>,query execution,positive
+<CAF6oT1fLxOTWbGCi+q3nSzA1+3AR1QGi2DF-NVX=eNRE1uKXhQ@mail.gmail.com>,shuffle,neutral
+<CAF6oT1fLxOTWbGCi+q3nSzA1+3AR1QGi2DF-NVX=eNRE1uKXhQ@mail.gmail.com>,memory management,neutral
+<CAF6oT1fiWx36tb_vvN2jouF0R5FMi7Xmq4VFzaZsrJzHBin4jQ@mail.gmail.com>,shuffle,neutral
+<CAFX8L21cimZxGo5bFT0wY4kdhipcJXfKpQ3zNATZm7NL3Mhpug@mail.gmail.com>,pyspark,neutral
+<CAEccTyzJM9jWJen41mey_dV_skDj3KXhhJ5y-2iS7H5a2o9+OA@mail.gmail.com>,spark connect,negative
+<AF5501D9-C1FF-445E-9220-BCF31FEC2A50@baidu.com>,`connect,negative
+<AF5501D9-C1FF-445E-9220-BCF31FEC2A50@baidu.com>,dataframe,negative
+<AF5501D9-C1FF-445E-9220-BCF31FEC2A50@baidu.com>,spark connect,neutral
+<AF5501D9-C1FF-445E-9220-BCF31FEC2A50@baidu.com>,pyspark,neutral
+<B0294890-5B0F-45DC-AD4C-52BE6AB0CD1C@gmail.com>,structured streaming,neutral
+<B0294890-5B0F-45DC-AD4C-52BE6AB0CD1C@gmail.com>,query execution,neutral
+<CAJ3fcbB37kv3=jVFP3JAgK8bpPg4xmw8NA4QH5TGUxghhBbF-w@mail.gmail.com>,query execution,neutral
+<CAJ3fcbB37kv3=jVFP3JAgK8bpPg4xmw8NA4QH5TGUxghhBbF-w@mail.gmail.com>,shuffle,negative
+<CAF6oT1f8-RSCP8DaPWgqoEJ+_-jKsJU9Ho6nvz7KAimgDGJCcQ@mail.gmail.com>,shuffle,positive
+<CAF6oT1f8-RSCP8DaPWgqoEJ+_-jKsJU9Ho6nvz7KAimgDGJCcQ@mail.gmail.com>,memory management,neutral
+<CAF6oT1f8-RSCP8DaPWgqoEJ+_-jKsJU9Ho6nvz7KAimgDGJCcQ@mail.gmail.com>,scheduler,neutral
+<EE2C7D72-5B14-4EB8-A80D-F3FB75514C1B@gmail.com>,caching,neutral
+<CAJ3fcbAvHuVR+3c+yQJPH4yNkJXWkof5i4MOKqZqkmv5zsKghw@mail.gmail.com>,spark streaming,neutral
+<CAJ3fcbAewsoQ-6bXrMPMmaBNSnYdEfuhv1GvRdK6tcd8GVzsOw@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbAewsoQ-6bXrMPMmaBNSnYdEfuhv1GvRdK6tcd8GVzsOw@mail.gmail.com>,dynamic allocation,neutral
+<CAFu6yH0wsf9jGkTv5ZAXx7jsCRpDm+8xdHZwa2izqGCQrq=1Ng@mail.gmail.com>,pyspark,negative
+<CAMQGY75heqj05w-W6dSHoCSikZs1B5eqYxVHQy1iN-caFWV2oQ@mail.gmail.com>,structured streaming,neutral
+<CAMQGY75heqj05w-W6dSHoCSikZs1B5eqYxVHQy1iN-caFWV2oQ@mail.gmail.com>,streaming query,positive
+<CAJ3fcbDZhnxCijmHWkykpb-cPob2RpVhSqzX7-K1jzD0XctOHw@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbDZhnxCijmHWkykpb-cPob2RpVhSqzX7-K1jzD0XctOHw@mail.gmail.com>,dynamic allocation,positive
+<CAJ3fcbDY4vOh4a6yq_U18Pd6TW2KiDJ+Zu0wrZN7w7Y9p9Pcwg@mail.gmail.com>,speculative execution,neutral
+<CAJ3fcbC8LkWkgSeZFEsz17KL5Dq_LJUvQo6nrooa-6EDuZFHUQ@mail.gmail.com>,structured,positive
+<CAJ3fcbC8LkWkgSeZFEsz17KL5Dq_LJUvQo6nrooa-6EDuZFHUQ@mail.gmail.com>,structured spark,positive
+<CAJ3fcbC8LkWkgSeZFEsz17KL5Dq_LJUvQo6nrooa-6EDuZFHUQ@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbC8LkWkgSeZFEsz17KL5Dq_LJUvQo6nrooa-6EDuZFHUQ@mail.gmail.com>,structured data,positive
+<CAFX8L204zSE57KPBDggY3+rLtsPEx_Qc=JeiZrwGoi+8WD-AOw@mail.gmail.com>,pyspark,negative
+<CAJ3fcbCdk3En1Y_LO58Q2e4xO_QTnvBXd6HcyZ9MyTXBJameGw@mail.gmail.com>,spark core,neutral
+<CAN_Z6kkkhD6qO5MfgZKKb9WuUzZfoDaWhz9vSjakch41vY5kZg@mail.gmail.com>,shuffle,negative
+<0FC70920-1DE3-42D2-85D7-33DEBAE8F11E@baidu.com>,pyspark,negative
+<1ee8fad3f8c24e75923f47d198b34219@baidu.com>,pyspark,negative
+<bb796de871aa40da9afe0898482d4634@baidu.com>,pyspark,negative
+<16d74996f5694d84939b56c022b419f9@baidu.com>,pyspark,negative
+<c9dcaf96c6e24d1794216232acfd85b7@baidu.com>,pyspark,negative
+<CAJ3fcbDNwsHbP+NVeVb6PwDp8HMhDRKJyxh_eV93z_36J3zuDA@mail.gmail.com>,dynamic allocation,neutral
+<CABBRqHZSWq4Y-2cZvkJygY786jTZmuXgu=DZ6ocVDNZh2MwPWA@mail.gmail.com>,structured streaming,neutral
+<CABBRqHZSWq4Y-2cZvkJygY786jTZmuXgu=DZ6ocVDNZh2MwPWA@mail.gmail.com>,structured logging,neutral
+<CAMGApEpYX94ZT6+eV7z3Fn=m4SDkih2RCykRm52XWUPaD3MstA@mail.gmail.com>,dataframe,neutral
+<CABBRqHbg+=i8EMg5q9KMULktZvFXXjO-e7Wb5N17k0sMaTW1iQ@mail.gmail.com>,structured logging,negative
+<B68CDB30-55EB-4A3F-8BD7-2A5A6F9C1F32@baidu.com>,structured logging,neutral
+<CAL7CpJwESpwtVc_JrkW9n06JJPuNmZQADo4WtYuryMjB68ofdA@mail.gmail.com>,structured,positive
+<CAMknSHQrcPtn8c_A+uBWmy+d6OEsrw-cM_Onneu1CLNgdEVt9w@mail.gmail.com>,shared,neutral
+<CABtZgyu_K8WKyi73cM92Ahp6=CBqFs_zKCCh5S52cMw-QwvrHA@mail.gmail.com>,streaming query,neutral
+<1237122011.4163960.1710339582901@mail.yahoo.com>,structured logging,neutral
+<CAEG50LuGf-6FSf5Aqbtc33ct3DiP7wi5mVCF+iUOdhPJmKXnGg@mail.gmail.com>,streaming query,neutral
+<CAJ3fcbDO96=gWmiNwcdYzGNtFoK1Kgtrtk3gW5X81zXk8eUjNQ@mail.gmail.com>,spark core,positive
+<CAJ3fcbDO96=gWmiNwcdYzGNtFoK1Kgtrtk3gW5X81zXk8eUjNQ@mail.gmail.com>,spark sql,positive
+<CAJ3fcbDO96=gWmiNwcdYzGNtFoK1Kgtrtk3gW5X81zXk8eUjNQ@mail.gmail.com>,"structured
+",positive
+<CAMQGY75b1Fa+G6Swv9vsr=Y6Y=kCDqLL3GE2nYfasSOm1xjXeA@mail.gmail.com>,structured streaming,negative
+<CAHYmPaM7AaBMZgu4=p7FXV_EZhiBYrfqC3djNSSoaBgMSi3PGw@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbAnukmbpxO3FAjrtG1T4_75sJfSqAQGYwD3CPjcUSXMmg@mail.gmail.com>,structured streaming,positive
+<CABtZgys1wV+rzQfUfVa5e3jtg2in7qMVC8yi1Syx=4JvoDc=MA@mail.gmail.com>,structured streaming,positive
+<CAEG50LuVDEpRJqBugCWLoy9gXFU-HzPRbozW7ug4vqwv01wUXQ@mail.gmail.com>,structured streaming,positive
+<CAFwuiCxuN6vqwEPW_RZ6qCBCi9CTmKdAh01ikTtKFa2rPmG_6Q@mail.gmail.com>,scheduler,neutral
+<CAFwuiCxuN6vqwEPW_RZ6qCBCi9CTmKdAh01ikTtKFa2rPmG_6Q@mail.gmail.com>,structured streaming,neutral
+<CAFwuiCxuN6vqwEPW_RZ6qCBCi9CTmKdAh01ikTtKFa2rPmG_6Q@mail.gmail.com>,dynamic allocation,neutral
+<CAKk_+_z9xC-02ofo6F4iwa9e95-Ua7Rzkma1tatp5JVixhkZeg@mail.gmail.com>,dynamic allocation,neutral
+<CAKk_+_z9xC-02ofo6F4iwa9e95-Ua7Rzkma1tatp5JVixhkZeg@mail.gmail.com>,scheduler,neutral
+<CAKk_+_z9xC-02ofo6F4iwa9e95-Ua7Rzkma1tatp5JVixhkZeg@mail.gmail.com>,structured streaming,neutral
+<CAKk_+_w2rgJOBWJjA1GhF9v6yGhMimh0xegfKQxPUX96BjVNsA@mail.gmail.com>,pyspark,positive
+"
+ <PH7PR11MB85720BE64B397B285A93CC54913F2@PH7PR11MB8572.namprd11.prod.outlook.com>",spark connect,negative
+"
+ <PH7PR11MB85720BE64B397B285A93CC54913F2@PH7PR11MB8572.namprd11.prod.outlook.com>",pyspark,neutral
+<1996971073.4563443.1712064725967@mail.yahoo.com>,spark connect,negative
+<CAJ3fcbASBXJvqDDWZU_7J9pBpR-Qg++D2PgFOpam4azza-Cs1w@mail.gmail.com>,shuffle,neutral
+<CAEG50Lvh4aSP3wi5YsvHLbTcuBS2Yr03AHj4_P560R3jB_B59Q@mail.gmail.com>,structured streaming,positive
+<CALeYEmKaFEcYtSfx7msG0_pjJnroPncrKLvjf1TeGAP5Ae_sVA@mail.gmail.com>,shuffle,positive
+<B09AC86F-D411-4B43-A8D8-7F97A7178A09@gmail.com>,shuffle shufle,positive
+<B09AC86F-D411-4B43-A8D8-7F97A7178A09@gmail.com>,shuffle,positive
+<CALeYEmK8CLPR5+AuA6axWhWZuu5iu2ChwCeQ7c+5ebbOJ=u_9A@mail.gmail.com>,shuffle,neutral
+<CAJ3fcbBo+ar1OCABGoj_SMtPYiDg3gfUd-L9vZZuGhre2t9byw@mail.gmail.com>,shuffle,positive
+<CAJ3fcbBo+ar1OCABGoj_SMtPYiDg3gfUd-L9vZZuGhre2t9byw@mail.gmail.com>,data management,neutral
+<CALFm=fzP_bSaTtSi2OqpJdWQLpMt=z00WgtDaeb4pS_xaxGDeQ@mail.gmail.com>,connect,neutral
+<pony-74dc89e3-d2d6-4bd7-9489-42efd693e189-dev@spark.apache.org>,spark connect,neutral
+<pony-57363b55-306d-4143-be20-bd529d3cc911-dev@spark.apache.org>,spark connect,neutral
+<pony-032fcf6a-5aad-4063-95c4-bebb0c175de4-dev@spark.apache.org>,spark connect,neutral
+<CAJ3fcbCctsvdF8FEGgEunfqNCBjaMhZQtF5CL3uJe63STqkMXw@mail.gmail.com>,spark execution,neutral
+<CAO-SsN5Q3i3Kycw=Nzvv5FLY-n5fEh0q58GiUZK2JMD2LUeuQw@mail.gmail.com>,shuffle,neutral
+<pony-aa1f7f3e-ee80-4fd2-b927-7c3ab92ee94a-dev@spark.apache.org>,spark connect,neutral
+<CAMAB3piKEVeSkBjk92zH_f7JFMry-8A+a44RxK35j0mHqebS3g@mail.gmail.com>,spark connect,negative
+<CAMAB3piKEVeSkBjk92zH_f7JFMry-8A+a44RxK35j0mHqebS3g@mail.gmail.com>,pyspark,negative
+<CAMGApEooej6N6K8J4=ifaOfpwuYJ7fomNjSm_vxgsF35WfWyBA@mail.gmail.com>,shuffle,neutral
+<CAFu6yH248KhN5_sC6V2OzQ9n9L85OAnya6bNp8jGpbDcrtpFrg@mail.gmail.com>,spark sql,neutral
+<CABBRqHZpjF1v3Jq0=3hqBFjafxPxP_sLMGy_aD8-YpWq4HNP_A@mail.gmail.com>,spark sql,neutral
+<CAEQOfPOoC-eDQ-Zcs3hBpGf-YdBGOyZR-ifgeSM62So1Y8g2Rw@mail.gmail.com>,spark connect,neutral
+<CAEQOfPOoC-eDQ-Zcs3hBpGf-YdBGOyZR-ifgeSM62So1Y8g2Rw@mail.gmail.com>,structured logging,neutral
+<CAFu6yH0Eq-_XN8UZ5accH4hrC_UiGuHV1p=wjixLj2PHR49xAQ@mail.gmail.com>,pyspark,neutral
+<CAJ3fcbBTYOhhtfbGD1n05Hrx47daLKpcL+gW9TJvZgZziQ6wPA@mail.gmail.com>,pyspark,neutral
+<CAEQOfPOQPf_45bHeYt38ag4TTGX-TcPZTdz-Zx7tG46h8kPnEA@mail.gmail.com>,dataframe,neutral
+<CALcBSzJKDEmzA_k+LPEZm4=jMXqTFWyFCVVnz2Ra=ueruy0S8A@mail.gmail.com>,supporting parquet,neutral
+<CALcBSzJezngnFOpUtHSPySSz5swH4eAdAF4guiYCV0EeDLPsag@mail.gmail.com>,dremio sql,positive
+<CANM8-AFJ7=La_2u+PpQm=ytxNo_MB5_qK0SOQ-mYnPDMCMeXLA@mail.gmail.com>,plain sql,positive
+<CALGSHSsisiNKLV7jb4VqR1XnsFDF7YbU+dB-Cx+hDDhKm2rs9Q@mail.gmail.com>,memory spark,neutral
+<CALGSHSsisiNKLV7jb4VqR1XnsFDF7YbU+dB-Cx+hDDhKm2rs9Q@mail.gmail.com>,memory catalog,neutral
+<CAJ3fcbAvzOySs0jDG7Dp82M1WmvtOmLLQKnAWr_=zy4NJ+3pQA@mail.gmail.com>,spark sql,positive
+<CAJ3fcbA0xtfTwk2edOtpwCpZ-zqRTnkXMLQAScr2hJ9ToN61iw@mail.gmail.com>,spark sql,negative
+<CAEG50Luw+A2RXWeu+JNZ-=Ydd8kwKZK0hiJYTwNxL18KxNOK7Q@mail.gmail.com>,scheduler,neutral
+<CAEG50Luw+A2RXWeu+JNZ-=Ydd8kwKZK0hiJYTwNxL18KxNOK7Q@mail.gmail.com>,streaming query,positive
+<CAEG50Luw+A2RXWeu+JNZ-=Ydd8kwKZK0hiJYTwNxL18KxNOK7Q@mail.gmail.com>,smaller,neutral
+<14C514B0-49AD-4E0D-B5AE-343BEEE8A6B1@baidu.com>,dataframe,neutral
+<CAJ3fcbBaO4TfE5z6UERMtHoknCM2saEKkP6Av7wMRN8jJ8OLUA@mail.gmail.com>,spark sql,negative
+<CAJ3fcbBaO4TfE5z6UERMtHoknCM2saEKkP6Av7wMRN8jJ8OLUA@mail.gmail.com>,spark session,neutral
+<CAJ3fcbAzvQk-U6PA+qkM_sX4=5+rQazPne3dp0cwGa_OuvXUmA@mail.gmail.com>,structured streaming,neutral
+<CAJ3fcbC06bNwCqviKa7QWz15_rT6nW9xWEf_qmgFOw6kCTu+Lg@mail.gmail.com>,streaming data,positive
+<CAJ3fcbC06bNwCqviKa7QWz15_rT6nW9xWEf_qmgFOw6kCTu+Lg@mail.gmail.com>,structured streaming,positive
+<CAJ3fcbC06bNwCqviKa7QWz15_rT6nW9xWEf_qmgFOw6kCTu+Lg@mail.gmail.com>,latency,positive
+<CA+UDUT9oW3FeXCU1btSw=8-JsL5rGtC_SsskWFX--SYrjbfDxA@mail.gmail.com>,spark streaming,neutral
+<CA+UDUT9oW3FeXCU1btSw=8-JsL5rGtC_SsskWFX--SYrjbfDxA@mail.gmail.com>,dependency management,negative
+<08300CAD-A03C-4A20-A076-E1F0CB4EE7D1@gmail.com>,structured logging,neutral
+<08300CAD-A03C-4A20-A076-E1F0CB4EE7D1@gmail.com>,spark connect,neutral
+<CALcBSzJ7ssL+gJeRvZvEF8Y_S+cRY=Mvej3V4+ODKgtNb1v0Pw@mail.gmail.com>,memory,negative
+<CAJ3fcbDVQTtmaN50A3nG561qQBRUJaHZaUHM0cne0x2zOxznVA@mail.gmail.com>,dataframe,neutral
+<CAJ3fcbDVQTtmaN50A3nG561qQBRUJaHZaUHM0cne0x2zOxznVA@mail.gmail.com>,shuffle,neutral
+<CAJ3fcbDVQTtmaN50A3nG561qQBRUJaHZaUHM0cne0x2zOxznVA@mail.gmail.com>,memory allocation,neutral
+<CAEQOfPOgDcHTpObmzHGKKyKDW=4w6015Qka79HLXpRJ6evbSMw@mail.gmail.com>,pyspark,neutral
+<CAJ3fcbBQai=frL3AAY_+yvKi_=7+F9cOe9sa=QzTSo9cNWQghg@mail.gmail.com>,shuffle,negative
+<CAJ3fcbD-qfB=NQ+8v0-QzKom+M8wgE4XHRa_vsG38=ELf2_1_Q@mail.gmail.com>,shuffle,negative
+<CAJ3fcbDOEy=TzcEBpxaF-BomwObsuHAXVSSuPapJu=DW4U7+Vg@mail.gmail.com>,shuffle,negative
+<CAJ3fcbDOEy=TzcEBpxaF-BomwObsuHAXVSSuPapJu=DW4U7+Vg@mail.gmail.com>,caching,negative
+<CAEQOfPMuv6E8QQUcAgexcykcfHpam3Gp6oWaPgZHfG8qjKR5ng@mail.gmail.com>,pyspark,neutral
+<CAEQOfPMfLFX_BjQcg8pf3QCcq7AVgaVr4B4J_LWRK4bDj+mnUA@mail.gmail.com>,pyspark,neutral
+<CAKiCf1+C3EAaX=9=sK3bxFzMcTS24R-nXQA5HX2X277KGiYsWw@mail.gmail.com>,structured,positive
+<CAEQOfPOs3-oaSOSJZzjD1W_-AYniftLOvtQSSLHjosgj=TJatQ@mail.gmail.com>,structured logging,positive
+<CAHYmPaO5XgV2Qou_uO44WYBB_tfZ0iZ2+RemwK9X7123LonuuQ@mail.gmail.com>,structured streaming,positive
+"
+ <CWLP265MB33457AB5C44A9EE05E4CA46287F92@CWLP265MB3345.GBRP265.PROD.OUTLOOK.COM>",structured streaming,positive
+<CAHYmPaMiOXwUrkprozimS4k8R5tUCesLAKcZQtFoNhz0HxH5iw@mail.gmail.com>,spark documentation,neutral
+<CAJi4day-RqD2iZwEicOdsS4OKMxhxQ+jnM=DjFV6HzU7xDE_dw@mail.gmail.com>,structured streaming,negative
+<CAJi4day-RqD2iZwEicOdsS4OKMxhxQ+jnM=DjFV6HzU7xDE_dw@mail.gmail.com>,streaming programming,neutral
+<CAJi4day-RqD2iZwEicOdsS4OKMxhxQ+jnM=DjFV6HzU7xDE_dw@mail.gmail.com>,pyspark,neutral
+"
+ <DBBPR08MB4856989F0A14A971795A61ADD1FA2@DBBPR08MB4856.eurprd08.prod.outlook.com>",shuffle,neutral
+<pony-14fbdee2-4566-4776-bd3a-c7433f7e7e56-dev@spark.apache.org>,shuffle,positive
+<CAAD8kEPW5nSkGWAw0rTy+41U5AB6ZJ7j05piT7APpbjPQecXtQ@mail.gmail.com>,shuffle,neutral
+"
+ <DBBPR08MB4856A93FBA0496ECB3420505D1FB2@DBBPR08MB4856.eurprd08.prod.outlook.com>",shuffle,positive
+<CAHYmPaPTag9DFcBkZ2TZ=rtuapqjNAXNiO266KR9ZwyzRO3GzQ@mail.gmail.com>,streaming programming,neutral
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,structured streaming,negative
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,structure streaming,neutral
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,structured-,neutral
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,streaming,neutral
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,pyspark,neutral
+<D3D92D05-CD36-42D9-8801-26300C228CE8@rielau.com>,spark documentation,neutral
+<CAH=T4pGjw347SqV1bJHoRkiGRcj8jcXfovWPc-dCr9GAy=WC_Q@mail.gmail.com>,structured streaming,positive
+<CAH=T4pGjw347SqV1bJHoRkiGRcj8jcXfovWPc-dCr9GAy=WC_Q@mail.gmail.com>,pyspark,neutral
+<CAH=T4pGjw347SqV1bJHoRkiGRcj8jcXfovWPc-dCr9GAy=WC_Q@mail.gmail.com>,spark docs,neutral
+<CAMt-jNo-DYyDpq=QaVsy3Rs04fR0UwP1fXWZSsms+wmvCdMHrQ@mail.gmail.com>,pyspark,positive
