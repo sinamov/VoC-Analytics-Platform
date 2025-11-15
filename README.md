@@ -84,3 +84,52 @@ This project is built using a modern, scalable, cloud-native tech stack, demonst
     ```bash
     python -m streamlit run app/app.py
     ```
+## Deployment to Azure
+
+This application is designed to be deployed as a containerized app on Azure Container Apps (ACA), which offers a generous free tier and scales to zero.
+
+1.  **(One-Time) Install Docker**
+    You must have Docker Desktop installed and running on your local machine to build the image.
+
+2.  **Log in to Azure Container Registry (ACR)**
+    In your terminal, log in to the ACR we created with Bicep (`voc...acr`).
+    ```bash
+    az acr login --name <your-registry-name>
+    ```
+
+3.  **Build & Push the Docker Image**
+    We use `docker buildx` to build a multi-platform image (specifically `linux/amd64`) that can run on Azure's servers, even if you are on an Apple Silicon Mac.
+    This command builds the image, tags it for ACR, and pushes it all in one step.
+    ```bash
+    docker buildx build --platform linux/amd64 -t <your-registry-name>.azurecr.io/voc-app:latest --push .
+    ```
+
+4.  **Deploy to Azure Container Apps**
+    We will deploy using the robust, two-step method.
+
+    **First, create the ACA Environment (One-Time Setup):**
+    This creates the serverless "sandbox" for our app.
+    ```bash
+    az containerapp env create \
+      --name voc-env \
+      --resource-group voc-analytics-rg \
+      --location eastus
+    ```
+
+    **Second, create and deploy the app:**
+    This command pulls your image from ACR, injects your secrets, and makes the app public.
+    ```bash
+    az containerapp create \
+      --name voc-analytics-app \
+      --resource-group voc-analytics-rg \
+      --environment voc-env \
+      --image <your-registry-name>.azurecr.io/voc-app:latest \
+      --registry-server <your-registry-name>.azurecr.io \
+      --target-port 8501 \
+      --ingress external \
+      --min-replicas 0 \
+      --secrets "openai-key=YOUR_KEY_HERE" "openai-endpoint=YOUR_ENDPOINT_HERE" \
+      --env-vars "AZURE_OPENAI_API_KEY=secretref:openai-key" "AZURE_OPENAI_ENDPOINT=secretref:openai-endpoint"
+    ```
+    
+    After this command finishes, the CLI will output the public URL for your application.
