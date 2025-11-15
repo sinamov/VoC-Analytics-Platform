@@ -10,6 +10,8 @@ torch
 # For our web app
 streamlit
 pandas
+altair
+plotly
 
 # For our secrets
 python-dotenv
