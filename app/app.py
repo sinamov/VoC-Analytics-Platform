@@ -15,7 +15,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# --- 2. THE "BEAUTIFUL" CSS ---
 st.markdown(r"""
     <style>
     /* Main App Font */
@@ -24,7 +23,7 @@ st.markdown(r"""
     }
     /* Hide Streamlit Header/Footer */
     #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
+    /* footer {visibility: hidden;} <-- REMOVED */
     header {visibility: hidden;}
     /* Card Layout */
     .card {
@@ -73,6 +72,25 @@ st.markdown(r"""
     div[data-testid="stFileUploader"] p, 
     div[data-testid="stFileUploader"] small {
         display: none;
+    }
+    
+    /* --- UPDATED FOOTER STYLING --- */
+    .footer {
+        width: 100%;
+        /* background-color: #F8F9FA; <-- REMOVED for transparent background */
+        color: #808080; /* Gray text is readable on light gray background */
+        text-align: center;
+        padding: 20px 10px;
+        font-size: 14px;
+        margin-top: 48px;
+    }
+    .footer a {
+        color: #FF4B4B; /* Link color remains red */
+        text-decoration: none;
+        font-weight: 600;
+    }
+    .footer a:hover {
+        text-decoration: underline;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -146,9 +164,10 @@ with tab2:
     if df_dashboard is None:
         st.error("Dashboard data file 'app/data/dashboard_data.csv' not found. Please run the Databricks export notebook.")
     else:
-        st.subheader("Product Features with Most No. of Feedbacks")
+        # st.subheader("Pre-computed analysis of all processed emails") # <-- REMOVED
         
         # --- CHART 1: Top Aspects ---
+        st.subheader("Product Features with Most No. of Feedbacks")
         aspect_counts = df_dashboard['aspect'].value_counts().nlargest(20).reset_index()
         aspect_counts.columns = ['aspect', 'count']
         
@@ -158,8 +177,6 @@ with tab2:
                     title="Aspect", 
                     axis=alt.Axis(labelAngle=-45)),
             y=alt.Y('count', title="Total Mentions")
-        ).properties(
-            title="Top 20 Most Discussed Aspects"
         ).interactive()
         
         st.altair_chart(chart1, use_container_width=True)
@@ -204,6 +221,7 @@ with tab2:
 # --- TAB 3: BATCH ANALYSIS ---
 with tab3:
     st.markdown('<div class="card">', unsafe_allow_html=True)
+    # --- UPDATED HEADER ---
     st.header("Upload a Batch of Emails/Feedbacks")
     
     st.markdown("Upload a CSV file with a `text` column. **Note: File size is programmatically limited to 5MB.**")
@@ -244,3 +262,14 @@ with tab3:
                     st.dataframe(pd.DataFrame(results), use_container_width=True)
 
     st.markdown('</div>', unsafe_allow_html=True)
+
+# --- 5. CUSTOM FOOTER ---
+# This markdown is now injected at the end of the app flow.
+st.markdown(
+    """
+    <div class="footer">
+        Copyright © 2025 <a href="https://www.linkedin.com/in/sina-movahedi-aliabadi/" target="_blank">Sina Movahedi Aliabadi</a> - All Rights Reserved.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
