@@ -1,6 +1,6 @@
 # Voice of Customer (VoC) Analytics Platform
 
-This is an end-to-end Agentic-AI-NLP web app that builds a "Voice of Customer" (VoC) analytics platform. The application uses a custom-trained AI agent to analyze customer feedback for technical aspects, sentiment, and classification, and presents the findings in an interactive web dashboard.
+This is an end-to-end Agentic-AI-NLP project that builds a "Voice of Customer" (VoC) analytics platform. The application uses a custom-trained AI agent to analyze customer feedback for technical aspects, sentiment, and classification, and presents the findings in an interactive web dashboard.
 
 ## Features
 
@@ -12,7 +12,7 @@ This application is a Streamlit web app with three main features:
 
 ## Tech Stack
 
-This project is built using a modern, scalable, cloud-native tech stack, demonstrating skills across the entire MLOps lifecycle.
+This project is built using a scalable, cloud-native tech stack, demonstrating skills across the entire MLOps lifecycle.
 
 ### Cloud & Infrastructure (IaC)
 
